@@ -45,6 +45,12 @@ footer {
     text-align: left;
 }
 
-#norgesmestere{
-    width: 50%;
+#maggy {
+    width: 30%;
+}
+
+@media (max-width: 767px) {
+    #maggy {
+        width: 100%;
+    }
 }
